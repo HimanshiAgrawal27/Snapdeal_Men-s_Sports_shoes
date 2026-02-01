@@ -83,5 +83,5 @@ Python – Web scraping and dataset creation
 Power BI – Data cleaning, transformation, and dashboard creation
 CSV Dataset – Intermediate data storage
 
-Attach the snapshot of dashbaord_link:- 
+Attach the snapshot of dashbaord_link:- https://github.com/HimanshiAgrawal27/Snapdeal_Men-s_Sports_shoes/blob/main/snapshot_men'sfootware_dashboard.png
 
